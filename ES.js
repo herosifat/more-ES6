@@ -12,3 +12,20 @@ const product ={
     ]
 }
 console.log(product.data[0].price);
+
+
+// chain system
+const user ={
+    name:'shakib khan',
+    id:67,
+    wife:{
+        fast: 'apu bissash',
+        second :'Shovnam bubly',
+
+        profession :{
+            actor: 'hero',
+            singer:'no'
+        }
+    }
+}
+console.log(user.wife.profession.singer);
