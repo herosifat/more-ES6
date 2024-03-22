@@ -8,4 +8,4 @@ const filt =filter.filter( n=> n>5);
 const filts =filter.filter( n=> n %2===0);
 console.log(filts)
 
-// find R filter holo same fine kono kico detacted korte na parle undefine dekhabe r filter hole seta empty array dekhabe 
+// find R filter holo same fine kono kico detacted korte na parle undefine dekhabe r filter hole seta empty array dekhabe.
